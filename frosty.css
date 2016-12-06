@@ -9,7 +9,7 @@ body {
 }
 .nav {
   padding-left: 50px;
-  background: #02d8d8;
+  background: #98d6f9;
   color: #fff;
   top: 0;
   position: fixed;
@@ -34,7 +34,7 @@ h1,h2,h3 {
 	font-weight: 500;
 }
 a {
-	color: #02d8d8;
+	color: #98d6f9;
 	text-decoration: none;
 }
 a:hover {
